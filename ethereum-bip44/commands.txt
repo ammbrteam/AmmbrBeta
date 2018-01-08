@@ -1,0 +1,4 @@
+npm install ethereum-bip44
+npm install bitcore-mnemonic
+npm install web3
+
